@@ -7,7 +7,7 @@ class A
 private:
     int a, b;
 public:
-    A(int x, int y)
+    A(int x, int y) // Constructor
     {
         a = x;
         a = y;
